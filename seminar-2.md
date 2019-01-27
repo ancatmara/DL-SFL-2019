@@ -176,6 +176,8 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 [Статья на Хабре](https://habr.com/ru/post/271045/)
 
+[Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
+
 #### Mendeley
 
 [Cheat Sheet](https://cms-cdn-prod.live.corp.mendeley.com/prod/Ultimate-Citation-Cheat-Sheet.pdf)
