@@ -1,6 +1,6 @@
-# Summary
+# Содержание
 
-* [Introduction](README.md)
+* [План курса](README.md)
 * [Семинар 1](seminar-1.md)
 * [Семинар 2](seminar-2.md)
 
