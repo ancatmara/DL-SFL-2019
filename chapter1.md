@@ -64,15 +64,7 @@
 
 * Некоторые тексты есть в открытом доступе
 
-### Полезные ссылки
 
-[Citation Guides](http://www.easybib.com/guides/citation-guides/)
 
-[ГОСТ](http://protect.gost.ru/v.aspx?control=7&id=173511)
 
-[Автоматическое форматирование библиографии в MS Word](https://support.office.com/ru-ru/article/Автоматическое-форматирование-списков-литературы-с-помощью-стилей-apa-mla-chicago-405c207c-7070-42fa-91e7-eaf064b14dbb)
-
-[Online bibliography generator](http://www.citethisforme.com/)
-
-[Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
