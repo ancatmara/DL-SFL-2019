@@ -65,7 +65,7 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 Этот БМ существует в виде плагина для текстовых редакторов, расширения для браузера и отдельной программы. Он предоставляет 300 Мб для хранения статей он-лайн и умеет работать с таким форматами, как BibTeX, Wikipedia Citation Templates, MODS, COinS, RIS, RDF, Evernote, EndNote и др.
 
-#### Установка
+### Установка
 
 1. Заходим на сайт www.zotero.org
 2. В верхнем правом углу нажимаем Register. Заводим учетную запись.
@@ -73,13 +73,13 @@ Chicago Manual of Style — Чикагский стилистический сп
 4. Скачиваем Zotero Standalone для вашей ОС. **NB!** Отметьте Ваш браузер Firefox, Chrome или Safari под строчкой «Add one of the following browser extensions».
 5. Открываем  Zotero и проводим синхронизацию.
 
-#### Настройка
+### Настройка
 
 1. Устанавливаем стиль цитирования ГОСТ. Программа Zotero должна быть запущена заранее. Для этого заходим [http://www.zotero.org/styles/](http://www.zotero.org/styles/) 
 2. Находим Russian GOST R 7.0.5-2008 \(Russian\) и Russian GOST R 7.0.5-2008 \(numeric\). 
 3. Первый нужен для ссылок вида \[Автор, год\], а второй – для ссылок вида \[1\].
 
-#### Работа с Zotero
+### Работа с Zotero
 
 Создаем папку.
 
@@ -115,7 +115,7 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 ![](https://lh6.googleusercontent.com/ifqLO4R_ecMYqoOBBr-zXdlJljFrxoG3cH_wVd06dvFmJSVdJ6FtcsqUgQzolT2EA_AgKTh1S5p86EvMLRFcq6XjGzioOpGYAPu-oWKbVp6O4NIzB2tItkCxKzi2o4vO7ci6C4GiJ88)
 
-После этого откроется окошко, в котором надо выбрать стиль цитирования. Можно также отключить автоматическое обновление ссылок, чтобы плагин работал быстрее. 
+После этого откроется окошко, в котором надо выбрать стиль цитирования. Можно также отключить автоматическое обновление ссылок, чтобы плагин работал быстрее.
 
 ![](https://lh5.googleusercontent.com/-9YZJvb0jeXft2c_mAEpYEox5mXRP09vpjTzzo-x4PLp1DO4xvZgyA8Hwpy4Z4mDTM3-NM2SYqtlss2qfEo4QH5_GwhHZGQmhja4vsv3S_eew_n0aYGR950-05jP8v9u0g6KVmkwyow)
 
@@ -130,8 +130,6 @@ Chicago Manual of Style — Чикагский стилистический сп
 Если нужно сослаться на конкретную страницу, то нажимаем на публикацию в поисковой строке Zotero и вписываем страницу в нужное поле.
 
 ![](https://lh3.googleusercontent.com/SiUfGryNRWSslOzf2dKpUDUzmOcXdkKOuhDaSfbnDNF2iEaR6yVY4gr7163d-cGgNkSY7vDE6NzD-eXghlrWE4jwtFt8oe7Jp5HVapxvFNj97axfRMgaUO8ZWuiZMzFOnYc6fogcbuw)
-
-
 
 Если нужно поменять стиль цитирования, потребуются следующие шаги:
 
