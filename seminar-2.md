@@ -1,3 +1,12 @@
+
+---
+
+---
+
+---
+
+---
+
 # Оформление библиографии
 
 ## Форматы цитирования
@@ -69,13 +78,13 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 1. Заходим на сайт www.zotero.org
 2. В верхнем правом углу нажимаем Register. Заводим учетную запись.
-3. Переходим по ссылке http://www.zotero.org/download/
+3. Переходим по ссылке [http://www.zotero.org/download/](http://www.zotero.org/download/)
 4. Скачиваем Zotero Standalone для вашей ОС. **NB!** Отметьте Ваш браузер Firefox, Chrome или Safari под строчкой «Add one of the following browser extensions».
 5. Открываем  Zotero и проводим синхронизацию.
 
 #### Настройка
 
-1. Устанавливаем стиль цитирования ГОСТ. Программа Zotero должна быть запущена заранее. Для этого заходим http://www.zotero.org/styles/ 
+1. Устанавливаем стиль цитирования ГОСТ. Программа Zotero должна быть запущена заранее. Для этого заходим [http://www.zotero.org/styles/](http://www.zotero.org/styles/) 
 2. Находим Russian GOST R 7.0.5-2008 \(Russian\) и Russian GOST R 7.0.5-2008 \(numeric\). 
 3. Первый нужен для ссылок вида \[Автор, год\], а второй – для ссылок вида \[1\].
 
