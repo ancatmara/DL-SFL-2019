@@ -74,6 +74,10 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 ![](/assets/bib3.png)
 
+### [Zotero](https://www.zotero.org/ )
+
+### 
+
 ### [Mendeley](https://www.mendeley.com)
 
 Заходим на сайт и создаем аккаунт \(_Create Free Account_\).
