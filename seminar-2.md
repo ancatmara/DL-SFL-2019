@@ -59,9 +59,9 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 * Организуют и хранят Вашу библиотеку источников, группируют источники по темам, проектам и т.п.;
 * Одним кликом мышки импортируют библиографические данные из всех электронных баз публикаций библиотеки Вышки \(Web of Science, JSTOR и т.д.\);
-* Легко и удобно сохраняют библиографическую информацию о публикациях, найденных в Google Scholar и Google Books; 
+* Легко и удобно сохраняют библиографическую информацию о публикациях, найденных в Google Scholar, Google Books и других базах; 
 * Создают общие коллективные библиотеки источников для научного подразделения или рабочей группы \(требуется наличие или одинакового БМ у всех членов команды или БМ, адаптированных друг под друга\);
-* Оформляют за Вас ссылки и библиографию по ГОСТ и еще 2999 стандартам,
+* Оформляют за Вас ссылки и библиографию по ГОСТ и еще 2999 стандартам;
 * Позволяют делиться с коллегами ссылками по почте \(кроме CiteULike\).
 
 ### Как выбрать?
@@ -70,7 +70,21 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 ## [Zotero](https://www.zotero.org/ )
 
-### 
+Этот БМ существует в виде плагина для текстовых редакторов, расширения для браузера и отдельной программы. Он предоставляет 300 Мб для хранения статей он-лайн и умеет работать с таким форматами, как BibTeX, Wikipedia Citation Templates, MODS, COinS, RIS, RDF, Evernote, EndNote и др.
+
+#### Установка
+
+1. Заходим на сайт www.zotero.org
+2. В верхнем правом углу нажимаем Register. Заводим учетную запись.
+3. Переходим по ссылке http://www.zotero.org/download/
+4. Скачиваем Zotero Standalone для вашей ОС. **NB!** Отметьте Ваш браузер Firefox, Chrome или Safari под строчкой «Add one of the following browser extensions».
+5. Открываем  Zotero и проводим синхронизацию.
+
+#### Настройка
+
+1. Устанавливаем стиль цитирования ГОСТ. Программа Zotero должна быть запущена заранее. Для этого заходим http://www.zotero.org/styles/ 
+2. Находим Russian GOST R 7.0.5-2008 \(Russian\) и Russian GOST R 7.0.5-2008 \(numeric\). 
+3. Первый нужен для ссылок вида \[Автор, год\], а второй – для ссылок вида \[1\].
 
 ## [Mendeley](https://www.mendeley.com)
 
@@ -154,11 +168,17 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 [Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
 
+[Вышкинский центр по работе с библиографией](https://academics.hse.ru/bibliography/)
+
+#### Zotero
+
+[Статья на Хабре](https://habr.com/ru/post/271045/)
+
 #### Mendeley
 
 [Cheat Sheet](https://cms-cdn-prod.live.corp.mendeley.com/prod/Ultimate-Citation-Cheat-Sheet.pdf)
 
-[Вышкинский центр по работе с библиографией](https://academics.hse.ru/bibliography/)
+[Статья на Хабре](https://habr.com/ru/post/236559/)
 
 [Mendeley Guide](https://academics.hse.ru/data/2017/11/22/1160811435/mendeley_2017.pdf) \(на русском\)
 
