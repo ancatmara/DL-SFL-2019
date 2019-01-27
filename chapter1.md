@@ -144,9 +144,9 @@
 #### **Как определить квартиль по Web of Science**
 
 1. Зайти с компьютера НИУ ВШЭ на сайт [www.isiknowledge.com](http://www.isiknowledge.com/)
-2. В самом верху страницы нажимать вкладку Journal Citation Reports
+2. В самом верху страницы нажать на вкладку Journal Citation Reports
 3. Ввести название искомого журнала 
-4. Внизу под ключевыми индикаторами журнала \(«Key indicators»\) слева выбирать раздел «Rank» \(сразу под разделом «Source Data»\)
+4. Внизу под ключевыми индикаторами журнала \(«Key indicators»\) слева выбрать раздел «Rank» \(сразу под разделом «Source Data»\)
 5. Справа появится окно с таблицей «JCR Impact Factor» — смотрим графу «Quartile» с соответствующими квартилями.
 
 ![](/assets/import11.png)![](/assets/import12.png)
