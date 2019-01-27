@@ -156,7 +156,7 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 [Вышкинский центр по работе с библиографией](https://academics.hse.ru/bibliography/)
 
-[Mendeley Guide](https://academics.hse.ru/data/2014/01/22/1325791562/Final Mendeley_for_single.pdf) \(на русском\)
+[Mendeley Guide](https://academics.hse.ru/data/2017/11/22/1160811435/mendeley_2017.pdf) \(на русском\)
 
 [Mendeley Guide](https://www.mendeley.com/guides) \(на английском\)
 
