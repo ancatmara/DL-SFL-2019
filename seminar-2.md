@@ -79,6 +79,69 @@ Chicago Manual of Style — Чикагский стилистический сп
 2. Находим Russian GOST R 7.0.5-2008 \(Russian\) и Russian GOST R 7.0.5-2008 \(numeric\). 
 3. Первый нужен для ссылок вида \[Автор, год\], а второй – для ссылок вида \[1\].
 
+#### Работа с Zotero
+
+Создаем папку.
+
+![](https://lh6.googleusercontent.com/wHqiCZsRUGHu7_jLzn91Z8fWc3xx1KMcXC5ZXP_t-pyDQ68ZuBoFDnHXS7eLF4KyYVrBm-jGan9jxzErn0OLZAtUCxCimeGn59LGCGqiYw3GwtxqwUrcj_Weru58-oilBow8-TNvJw4)
+
+Добавляем публикацию с компьютера.
+
+![](https://lh3.googleusercontent.com/zWkjyGp5Od1WNIHcHkqrOhOBoNK-B8Gs6WBxQ2qK73SmvhznXTme8CWbKG69fOLqNxi8ROm-KCrHRdO7mwAJqCE0weo9JZS37h5WYXuVkLNxY4qO3WxUbMvHJe0PyqehY4-KJ4dJgx0)
+
+Добавляем публикацию по идентификатору \(ISBN, DOI и т.п.\)
+
+![](https://lh4.googleusercontent.com/_JG-WQL-NFpySzywKA_MzVmjopPlYIHLiNOw3pKL_EeA--pbesRXWhwo1gOp7_eG6_89lT9yRuo9zRlIAAglxx3ZNXYItTf-zM7QLE0AukECWwNcTjAvOxPtJ6vddvsHkFvFNpgKmqY)
+
+Добавляем результаты поиска в Google Scholar.
+
+![](/assets/bib20.png)
+
+Просматриваем и правим библиографические данные.
+
+![](https://lh6.googleusercontent.com/vcOdFFoPBu237HSk-FeRMRRww4-Dx-xvy-IsYymYeaxrIPiGHn4YRV9btavMFat_bR4Zn__XSfLagoWXgNDgUNpbfknLjA_Nv07iXtAWlIm_OjL8ANsD3OKWIlH8feMxZwLVJFn2ysY)
+
+Добавляем теги.
+
+![](/assets/bib23.png)
+
+Фильтруем по тегам
+
+![](/assets/bib22.png)
+
+Создаем цитату в Google Docs.
+
+![](https://lh3.googleusercontent.com/vjGd0lytOAXqb42menseXaKU1NgfM8pLMdLsYEXIy-00lK2pv_ezRFuUPgzAjZnXDYoq9LQW2-x3MKwdxvDYjsMc1AdqNbWFijJk0rRH5kmTOtgiaMgUK02Xh45YwXjUSkjsIOY2zKc)
+
+![](https://lh6.googleusercontent.com/ifqLO4R_ecMYqoOBBr-zXdlJljFrxoG3cH_wVd06dvFmJSVdJ6FtcsqUgQzolT2EA_AgKTh1S5p86EvMLRFcq6XjGzioOpGYAPu-oWKbVp6O4NIzB2tItkCxKzi2o4vO7ci6C4GiJ88)
+
+После этого откроется окошко, в котором надо выбрать стиль цитирования. Можно также отключить автоматическое обновление ссылок, чтобы плагин работал быстрее. 
+
+![](https://lh5.googleusercontent.com/-9YZJvb0jeXft2c_mAEpYEox5mXRP09vpjTzzo-x4PLp1DO4xvZgyA8Hwpy4Z4mDTM3-NM2SYqtlss2qfEo4QH5_GwhHZGQmhja4vsv3S_eew_n0aYGR950-05jP8v9u0g6KVmkwyow)
+
+В открывшемся окошке с поисковой строкой начинаем вводить название/автора публикации, которую нужно процитировать, и выбираем ее из выпадающего списка.
+
+![](/assets/bib25.png)
+
+Можно добавить ссылку сразу на несколько статей/книг.
+
+![](/assets/bib26.png)
+
+Если нужно сослаться на конкретную страницу, то нажимаем на публикацию в поисковой строке Zotero и вписываем страницу в нужное поле.
+
+![](https://lh3.googleusercontent.com/SiUfGryNRWSslOzf2dKpUDUzmOcXdkKOuhDaSfbnDNF2iEaR6yVY4gr7163d-cGgNkSY7vDE6NzD-eXghlrWE4jwtFt8oe7Jp5HVapxvFNj97axfRMgaUO8ZWuiZMzFOnYc6fogcbuw)
+
+
+
+Если нужно поменять стиль цитирования, потребуются следующие шаги:
+
+* Zotero → Document preferences
+* Zotero → Refresh
+
+После того, как в текст добавлено несколько ссылок, можно сформировать библиографию.
+
+![](/assets/bib27.png)
+
 ## [Mendeley](https://www.mendeley.com)
 
 Заходим на сайт и создаем аккаунт \(_Create Free Account_\).
