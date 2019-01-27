@@ -176,6 +176,10 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 [Статья на Хабре](https://habr.com/ru/post/271045/)
 
+[Zotero User Guide](https://www.zotero.org/static/download/zotero_user_guide.pdf) \(pdf\)
+
+[Документация Zotero по рубрикам](https://www.zotero.org/support/)
+
 [Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
 
 #### Mendeley
