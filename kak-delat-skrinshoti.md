@@ -36,19 +36,7 @@
 
 Если вы хотите сделать снимок конкретной части экрана, нажмите сочетание клавиш** ⌘ Cmd + Shift + 4** и выделите курсором нужную область экрана. Чтобы сделать скриншот только активного окна, нажмите сочетание клавиш **⌘ Cmd + Shift + 4**, а затем нажмите пробел. Чтобы сохранить скриншот в буфер обмена, при его создании дополнительно удерживайте кнопку **Ctrl**.
 
-_**Источник**: _[https://yandex.ru/support/common/troubleshooting/screenshot.html](https://yandex.ru/support/common/troubleshooting/screenshot.html)_ _
+**Источник**: _[https://yandex.ru/support/common/troubleshooting/screenshot.html](https://yandex.ru/support/common/troubleshooting/screenshot.html)_
 
 Если вас не устраивают стандартные средства для работы со скриншотами, то можно скачать стороннее ПО -- например, _Microsoft Snip, Gyazo_ или _Lightshot_.
-
-_**Источник**: _[https://yandex.ru/support/common/troubleshooting/screenshot.html](https://yandex.ru/support/common/troubleshooting/screenshot.html)_ _
-
-Если вас не устраивают стандартные средства для работы со скриншотами, то можно скачать стороннее ПО -- например, _Microsoft Snip, Gyazo_ или _Lightshot_.
-
-1. В окне редактирования полученного изображения вы можете сделать подпись, используя инструмент  
-   "перо", или выделить текст с помощью маркера.  
-   .
-
-2. Сохраните изображение: нажмите кнопку "Сохранить как" и выберите место для хранения файла.
-
-
 
