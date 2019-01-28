@@ -20,7 +20,7 @@ _Семинары по курсу «Цифровая грамотность» д
 
 ## Полезные ссылки
 
-* [Страница курса на wiki ФКН](http://wiki.cs.hse.ru/index.php?title=Цифровая\_грамотность\_\(ИЯМК\_2019)
+* [Страница курса на wiki ФКН](http://wiki.cs.hse.ru/index.php?title=Цифровая_грамотность_%28ИЯМК_2019)
 * Конспекты семинаров [на GitHub](https://github.com/ancatmara/DL-SFL-2019) или на [GitBooks](https://ancatmara.gitbooks.io/dl-for-sfl/)
 * [Ссылка для регистрации в Slack](https://join.slack.com/t/dl18sfl/shared_invite/enQtNTEzNjE0MDEyNDM5LTEzMmIzNGE2ODFkOTljY2I1ZGYyMzhjMGRlOGVhNTBiNmE3YzhmMmJjZTMxNjYzMGI3YTZhMzY4MmMzZmJiMDM)
 * Домашние работы сдаются через Anytask [вот здесь](https://anytask.org/course/432)
