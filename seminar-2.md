@@ -85,7 +85,7 @@ Chicago Manual of Style — Чикагский стилистический сп
 
 ![](https://lh6.googleusercontent.com/wHqiCZsRUGHu7_jLzn91Z8fWc3xx1KMcXC5ZXP_t-pyDQ68ZuBoFDnHXS7eLF4KyYVrBm-jGan9jxzErn0OLZAtUCxCimeGn59LGCGqiYw3GwtxqwUrcj_Weru58-oilBow8-TNvJw4)
 
-Добавляем публикацию с компьютера.
+Добавляем публикацию с компьютера; если в документе есть библиографические метаданные, Zotero увидит их и заполнит соответствующие поля. Метаданные обычно есть в книгах и статьях, изначально подготовленных, как электронные издания (т.е. в рdf из сканов такого не будет).
 
 ![](https://lh3.googleusercontent.com/zWkjyGp5Od1WNIHcHkqrOhOBoNK-B8Gs6WBxQ2qK73SmvhznXTme8CWbKG69fOLqNxi8ROm-KCrHRdO7mwAJqCE0weo9JZS37h5WYXuVkLNxY4qO3WxUbMvHJe0PyqehY4-KJ4dJgx0)
 
