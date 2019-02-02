@@ -1,7 +1,5 @@
 # Работа с Google Forms
-1. Создаем новую форму
-
-[Ссылка](https://www.google.ru/intl/ru/forms/about/)
+1. Создаем [новую форму](https://www.google.ru/intl/ru/forms/about/)
 
 ![](/assets/forms1.PNG)
 
