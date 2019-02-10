@@ -5,7 +5,7 @@ _Семинары по курсу «Цифровая грамотность» д
 1. [Расширенный поиск Google. Поиск научной литературы и базы данных научного цитирования. Наукометрия](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-1.md)
 2. [Библиографические менеджеры: Zotero, Mendeley](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-2.md)
 3. [Google Forms](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-3.md)
-4. Google Sheets. Статистическая обработка и визуализация данных.
+4. [Google Sheets. Статистическая обработка и визуализация данных.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-4.md)
 5. Презентация проекта №1
 6. Регулярные выражения
 7. Работа с Национальным корпуском русского языка \(НКРЯ\). Меры частотности: ipm.
