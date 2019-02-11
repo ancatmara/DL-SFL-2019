@@ -2,7 +2,7 @@
 
 ## Базовые функции
 
-С количественными данными удобно работать в **табличных процессорах** вроде _Microsoft Excel \(iWork Numbers, OpenOffice Calc, LibreOffice Calc\)_. Возьмем, например, [данные] (http://www2.warwick.ac.uk/fac/cross_fac/heahistory/resources/rg_freeman_quantitativeskills_20100131_04.xls)о школьном и университетском образовании, медицинской страховке и пр. в Англии в 1920-30 гг. с сайта _Quantitative Skills for Historians_. 
+С количественными данными удобно работать в **табличных процессорах** вроде _Microsoft Excel \(iWork Numbers, OpenOffice Calc, LibreOffice Calc\)_. Возьмем, например, [данные](http://www2.warwick.ac.uk/fac/cross_fac/heahistory/resources/rg_freeman_quantitativeskills_20100131_04.xls) о школьном и университетском образовании, медицинской страховке и пр. в Англии в 1920-30 гг. с сайта _Quantitative Skills for Historians_. 
 
 Откроем первую страницу скачанной по ссылке выше книги Excel. Данные располагаются в ячейках, и у каждой ячейки есть уникальный адрес, где буква обозначает столбец, а цифра — строку.
 
