@@ -7,7 +7,7 @@ _Семинары по курсу «Цифровая грамотность» д
 3. [Google Forms](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-3.md)
 4. [Google Sheets. Статистическая обработка и визуализация данных.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-4.md)
 5. Презентация [проекта №1](https://github.com/ancatmara/DL-SFL-2019/blob/master/Project1.md)
-6. Регулярные выражения
+6. [Регулярные выражения](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-6.md)
 7. Работа с Национальным корпуском русского языка \(НКРЯ\). Меры частотности: ipm.
 8. Корпусные приложения: AntConc.
 9. Корпусные приложения: SketchEngine, N-gram Viewer
