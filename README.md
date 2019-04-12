@@ -8,14 +8,14 @@ _Семинары по курсу «Цифровая грамотность» д
 4. [Google Sheets. Статистическая обработка и визуализация данных.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-4.md)
 5. Презентация [проекта №1](https://github.com/ancatmara/DL-SFL-2019/blob/master/Project1.md)
 6. [Регулярные выражения](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-6.md)
-7. Работа с Национальным корпуском русского языка \(НКРЯ\). Меры частотности: ipm.
-8. Корпусные приложения: AntConc.
-9. Корпусные приложения: SketchEngine, N-gram Viewer
+7. [Работа с Национальным корпуском русского языка (НКРЯ). Меры частотности: ipm.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-7.md)
+8. [Корпусные приложения: AntConc.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-8.md)
+9. [Корпусные приложения: SketchEngine, N-gram Viewer](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-9.md)
 10. [Визуализация данных: Voyant Tools.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-10.md)
 11. Работа с параллельными корпусами.
 12. Машинный перевод.
-13. Сетевой анализ. Gephi \(1\).
-14. Сетевой анализ. Gephi \(2\).
+13. Сетевой анализ. Gephi (1).
+14. Сетевой анализ. Gephi (2).
 15. Контрольная работа по материалам лекций.
 
 ## Полезные ссылки
