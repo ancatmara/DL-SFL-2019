@@ -71,10 +71,10 @@
 Итак, для тоски у нас есть примерно 55 переводов (однокоренные слова считаются одной единицей перевода): *aching/heartache/ache/ached, agony, angst, anguish, blue, boring/bored/bore/boredom, brood, depressed/depressing/depression, desire, desolation, despairing/despair, disappointment, distracted, distress/distressed, dreary/drearily, dull, eagerly, ennui, feeling, feverish excitement, gloom/gloomy, hankering, homesickness/homesick, hopelessness, hunger, impatience, lingering, loneliness/lonesome/lonely, longing/longingly, low, lust, melancholy, misery/miserably/miserable/, missing, missing/missed, mope, nostalgic/nostalgia, nuisance, oppression, pitiful/pity, restlessness, sadness/sad/sadly/saddened, sickness/sick/sickened, sinking, sorrow, spleen, tedium, tired, toska, untoward, weary, wistfully/wistful, woe, wrench, yearning/yearned.*
 
 ### Меры разброса моделей перевода
-1. Отношение абсолютной частоты самой частотной модели перевода (F (Mmax)) к количеству различных моделей (NumM);
-2. Средняя частота вхождений на одну модель (F (O)/NumM, где F (O) —  общее количество вхождений);
-3. Отношение абсолютной частоты самой частотной модели перевода к частоте второй (F (Mmax)/F (Msec));
-4. Отношение абсолютной частоты самой частотной модели перевода к общему количеству вхождений (F (Mmax)/F (O)).
+1. Отношение абсолютной частоты самой частотной модели перевода (F(Mmax)) к количеству различных моделей (NumM);
+2. Средняя частота вхождений на одну модель (F(O)/NumM), где F(O) —  общее количество вхождений);
+3. Отношение абсолютной частоты самой частотной модели перевода к частоте второй (F(Mmax)/F(Msec));
+4. Отношение абсолютной частоты самой частотной модели перевода к общему количеству вхождений (F(Mmax)/F(O)).
 
 ## Выравнивание
 В работе над подготовкой корпуса параллельных текстов важнейшим этапом является выравнивание текстов, что в общем случае означает выделение в текстах оригинальном и переводном соответствующих друг другу фрагментов. 
@@ -83,7 +83,7 @@
 * Тексты
 * Абзацы
 * Предложения
-* Слова и словосочетания? (translation memory)
+* Слова и словосочетания (для translation memory)
 
 ![](/assets/gogol.png)
 
