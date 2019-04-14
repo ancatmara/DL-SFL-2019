@@ -12,7 +12,7 @@ _Семинары по курсу «Цифровая грамотность» д
 8. [Корпусные приложения: AntConc.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-8.md)
 9. [Корпусные приложения: SketchEngine, N-gram Viewer](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-9.md)
 10. [Визуализация данных: Voyant Tools.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-10.md)
-11. Работа с параллельными корпусами.
+11. [Работа с параллельными корпусами.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-11.md)
 12. Машинный перевод.
 13. Сетевой анализ. Gephi (1).
 14. Сетевой анализ. Gephi (2).
