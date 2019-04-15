@@ -183,6 +183,14 @@
 
 ![](/assets/align2.png)
 
+Нам удобнее скачать файлы не в tmx, а в LogiTerm (HTML). 
+
+![](/assets/logiterm1.png)
+
+Такой документ легко открыть в браузере и скопировать выровненный текст в виде двух колонок в Excel для дальнейшей работы.
+
+![](/assets/logiterm2.png)
+
 
 ## Ссылки
 * [Open Parallel Corpus](http://opus.nlpl.eu/)
