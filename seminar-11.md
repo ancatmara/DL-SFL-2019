@@ -191,6 +191,8 @@
 
 ![](/assets/logiterm2.png)
 
+Если скопированный из html текст вставляется в одну строчку, нужно выбрать "специальную вставку": *Главная > Вставка > Специальная вставка (Ctrl+Alt+V на Windows, Ctrl+Cmd+V на MacOS).*
+
 
 ## Ссылки
 * [Open Parallel Corpus](http://opus.nlpl.eu/)
