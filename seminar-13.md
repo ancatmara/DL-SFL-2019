@@ -4,7 +4,7 @@
 
 **Граф, или сеть** – это модель, состоящая из **узлов (вершин)** и связей между ними, или **ребер**. По-английски это называется _nodes (vertices, actors)_ и _edges (links, relations)_.
 
-![](/assets/graph_1.png)
+![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/graph_1.png)
 
 Узлы в графах могут группироваться в сообщества. **Сообщество** – это плотный подграф, где все (или почти все) узлы связаны между собой. Графы бывают:
 
@@ -22,7 +22,7 @@
 
 А вот так выглядит интернет!
 
-![](/assets/rsz_internet_network.png)
+![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/rsz_internet_network.png)
 
 ## Метрики 
 
