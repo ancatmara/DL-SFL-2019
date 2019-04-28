@@ -14,8 +14,8 @@ _Семинары по курсу «Цифровая грамотность» д
 10. [Визуализация данных: Voyant Tools.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-10.md)
 11. [Работа с параллельными корпусами.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-11.md)
 12. Машинный перевод.
-13. Сетевой анализ. Gephi (1).
-14. Сетевой анализ. Gephi (2).
+13. [Сетевой анализ. Gephi.](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-13.md)
+14. Подготовка к контрольной работе.
 15. Контрольная работа по материалам лекций.
 
 ## Полезные ссылки
